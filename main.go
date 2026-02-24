@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"io-lib/dbio"
-	"io-lib/text_files"
+	"github.com/Artificial-Polyglot/io-lib/dbio"
+	"github.com/Artificial-Polyglot/io-lib/text_files"
 
 	_ "github.com/mattn/go-sqlite3"
 )

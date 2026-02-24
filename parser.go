@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"io-lib/dbio"
-	"io-lib/safe"
+	"github.com/Artificial-Polyglot/io-lib/dbio"
+	"github.com/Artificial-Polyglot/io-lib/safe"
 )
 
 type stack []string
